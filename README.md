@@ -1,5 +1,5 @@
 === Genesis Simple Footer Widgets ===
-Contributors: devdesignstampa, hellofromTonya, cpaul007, WPDevelopersClub
+Contributors: joedooley, hellofromTonya, cpaul007
 Donate link: http://wpdevelopersclub.com/
 Tags: genesis, genesiswp, widgets, footer widgets
 Requires at least: 3.5
@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Create multiple footer widget's from a select menu in Genesis Theme Settings. From 0 to 6 widgets in seconds!
 
 == Description ==
+
+GitHub: https://github.com/joe-dooley/genesis-simple-footer-widgets
 
 This plugin allows you to create multiple footer widget's from a dropdown menu within Genesis Theme Settings. Plugin based on code from Genesis Developer, http://genesisdeveloper.me/controlling-footer-widget-columns-from-theme-settings-page-in-genesis/ .
 
