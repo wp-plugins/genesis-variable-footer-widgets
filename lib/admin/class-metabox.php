@@ -4,7 +4,7 @@
  * Genesis Simple Footer Widgets
  *
  * @package     JD_Genesis_Simple_Footer_Widgets
- * @since       1.0.2
+ * @since       1.0.3
  * @author      Joe Dooley
  * @link        http://www.developingdesigns.com/author/joe-dooley/
  * @license     GNU General Public License 2.0+
@@ -22,7 +22,7 @@ class Metabox {
 	/**
 	 * Instantiate the plugin
 	 *
-	 * @since 1.0.2
+	 * @since 1.0.3
 	 *
 	 * @param array     $config         Configuration parameters
 	 * @return self
@@ -35,7 +35,7 @@ class Metabox {
 	/**
 	 * Initialize the plugin's properties
 	 *
-	 * @since 1.0.2
+	 * @since 1.0.3
 	 *
 	 * @return null
 	 */
@@ -69,7 +69,7 @@ class Metabox {
 	/**
 	 * Render the Metabox
 	 *
-	 * @since 1.0.2
+	 * @since 1.0.3
 	 *
 	 * @author Bill Erickson
 	 * @link http://www.billerickson.net/genesis-theme-options/
